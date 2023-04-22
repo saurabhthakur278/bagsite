@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-10T15:34:25 IST" name="Suite" finished-at="2022-10-10T15:34:33 IST" duration-ms="7876">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T15:34:25 IST" name="Test" finished-at="2022-10-10T15:34:33 IST" duration-ms="7876">
+      <class name="com.bags.tests.TC_homepage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bags.tests.TC_homepage@4d5650ae]" started-at="2022-10-10T15:34:29 IST" name="setup" finished-at="2022-10-10T15:34:31 IST" duration-ms="2051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="buyBags()[pri:0, instance:com.bags.tests.TC_homepage@4d5650ae]" started-at="2022-10-10T15:34:31 IST" name="buyBags" finished-at="2022-10-10T15:34:33 IST" duration-ms="1746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyBags -->
+      </class> <!-- com.bags.tests.TC_homepage -->
+      <class name="com.bags.tests.TC_Logintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bags.tests.TC_Logintest@4f80542f]" started-at="2022-10-10T15:34:26 IST" name="setup" finished-at="2022-10-10T15:34:28 IST" duration-ms="2745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="varifyragistration()[pri:0, instance:com.bags.tests.TC_Logintest@4f80542f]" started-at="2022-10-10T15:34:28 IST" name="varifyragistration" finished-at="2022-10-10T15:34:29 IST" duration-ms="1099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyragistration -->
+      </class> <!-- com.bags.tests.TC_Logintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
